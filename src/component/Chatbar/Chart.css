@@ -1,0 +1,18 @@
+.btn-like {
+  background: rgba(126, 211, 33, 0.4);
+  box-shadow: 0 8px 32px 0 rgba(231, 231, 237, 0.37);
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
+  border-radius: 10px;
+  border: 1px solid rgba(246, 243, 243, 0.18);
+}
+
+.chart-bar {
+  width: 75%;
+}
+
+@media screen and (max-width: 768px) {
+  .chart-bar {
+    width: 100%;
+  }
+}
