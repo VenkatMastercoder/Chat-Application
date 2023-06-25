@@ -7,7 +7,7 @@ This is a single-page chat application developed using ReactJS. The application 
 
 ## Demo
 
-Insert gif or link to demo
+- chat-application-hym33r7yz-venkatmastercoder.vercel.app
 
 
 ## Screenshots
