@@ -7,7 +7,7 @@ This is a single-page chat application developed using ReactJS. The application 
 
 ## Demo
 
-- chat-application-hym33r7yz-venkatmastercoder.vercel.app
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](chat-application-hym33r7yz-venkatmastercoder.vercel.app)
 
 
 ## Screenshots
@@ -28,7 +28,7 @@ This is a single-page chat application developed using ReactJS. The application 
 
 **Client:** React, TailwindCSS, React Router v6
 
-**Delopyment:** Vercel
+**Deloyment:** Vercel
 
 
 ## Authors
